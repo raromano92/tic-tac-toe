@@ -1,0 +1,46 @@
+h1 {
+ text-align: center;
+ color: #6A2404;
+ font-size: 60px;
+ text-decoration: underline;
+ text-decoration-color: #045A6A;
+ font-family: 'Racing Sans One', cursive;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: 'Racing Sans One', cursive;
+    text-align: center;
+
+
+
+}
+
+#grid {
+
+    display: inline-flex;
+    flex-flow: row wrap;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    border: 7px solid #6A2404;
+
+}
+
+.squares {
+
+width: 158px;
+height: 158px;
+justify-content: center;
+align-items: center;
+display: inline-flex;
+border: 4.25px solid #045A6A;
+
+
+}
+
+
+
+
+
