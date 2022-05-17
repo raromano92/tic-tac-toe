@@ -18,7 +18,7 @@ const wincon = [
     [0, 5, 9]
 ]
 
-console.log(wincon[3])
+console.log(wincon[3]) 
 
 // const arr = Array(squares);
 // arr.fill(null)
